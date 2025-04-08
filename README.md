@@ -96,7 +96,7 @@ Training curves and visualizations of validation/test predictions demonstrate th
 
 * `lung_segmentation.ipynb`: Jupyter Notebook containing the full code for data loading, preprocessing, augmentation, model definition, training, and evaluation.
 * `Lung_Segmentation_Report.pdf`: A report detailing the project, methodology, results, and discussion.
-* `/data/lctsc/` (Example): A directory containing a subset of the patient data structure (users need to replace this with the full dataset).
+* `/data/lctsc/` A directory containing a subset of the patient data structure.
 
 ## Future Work
 
