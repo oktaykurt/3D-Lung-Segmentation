@@ -52,8 +52,8 @@ If you use this dataset in your research, please cite the original publication:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <https://github.com/oktaykurt/3D-lung-segmentation>
-    cd <https://github.com/oktaykurt/3D-lung-segmentation>
+    git clone https://github.com/oktaykurt/3D-lung-segmentation
+    cd https://github.com/oktaykurt/3D-lung-segmentation
     ```
 2.  **Install dependencies:**
     ```bash
